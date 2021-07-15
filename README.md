@@ -3,7 +3,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando no **Exército Brasileiro** até o fim de fevereiro de 2021
+ :rocket:  &nbsp; Trabalhei na Diretoria de Avaliação e Promoções do **Exército Brasileiro** por entre 2013 e 2021, atualmente estou na **BrScan** no Squad da Vivo.
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em PHP
  <br/> :blush: &nbsp; Posso te ajudar especialmente com PHP 
  <br/> :computer: &nbsp; Aprendendo: Node.js, React Native & Typescript
